@@ -2,7 +2,7 @@
 
 A full-stack machine learning app to predict COVID-19 deaths by location and age group. Built using **FastAPI**, **LightGBM**, and **React**.
 
-## 📸 Screenshot
+## 📸 Application Preview
 
 <img width="1536" height="1024" alt="covid pic" src="https://github.com/user-attachments/assets/228f750e-dfe6-45b0-8365-1271364180d6" />
 
