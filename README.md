@@ -4,7 +4,8 @@ A full-stack machine learning app to predict COVID-19 deaths by location and age
 
 ## 📸 Screenshot
 
-![Uploading covid pic.png…]()
+<img width="1536" height="1024" alt="covid pic" src="https://github.com/user-attachments/assets/228f750e-dfe6-45b0-8365-1271364180d6" />
+
 
 
 ## 🚀 Features
