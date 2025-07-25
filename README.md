@@ -42,4 +42,43 @@ git clone https://github.com/KhizerMahmud/MLCovid19.git
 cd MLCovid19
 ```
 
+## Start the full stack app 
 
+```bash
+docker-compose up --build
+```
+
+## 🧪 Usage
+
+### Train the model
+
+```bash
+curl -X POST http://localhost:8000/train
+```
+
+### Make a prediction
+
+```bash
+curl -X POST http://localhost:8000/predict \
+  -H "Content-Type: application/json" \
+  -d '{"location": "USA", "age_group": "60"}'
+```
+
+
+## 📦 Dependencies
+
+### Backend (FastAPI)
+- fastpi
+- uvicorn
+- pandas
+- lightgbm
+- joblib
+
+### Frontend (React)
+- react
+- react-boostrap
+- chart.js
+
+## 📦 Dependencies
+- To use real COVID-19 datasets, consider downloading from Kaggle.com
+- The backend supports retraining and live prediction with new data
