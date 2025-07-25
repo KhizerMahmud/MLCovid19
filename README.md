@@ -1,6 +1,6 @@
 # COVID-19 Death Predictor 🌍☠️
 
-A full-stack machine learning app to predict COVID-19 deaths by location and age group. Built using **FastAPI**, **LightGBM**, and **React**.
+A full-stack machine learning app to predict COVID-19 deaths by location and age group. Built using **FastAPI** and **React**.
 
 ## 📸 Application Preview
 
